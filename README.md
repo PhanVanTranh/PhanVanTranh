@@ -4,9 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=PhanVanTranh&color=007ec6&style=flat-square)
 
 <!-- Banner ảnh  -->
-![Banner](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop)
-
-<img src="https://github.com/PhanVanTranh/PhanVanTranh/blob/master/banner_embedded_Tranh.png?raw=true" alt="Banner" width="100%">
+<img src="https://github.com/PhanVanTranh/PhanVanTranh/blob/master/banner_embedded_Tranh.png?raw=true" alt="Banner" width="80%">
 </div>
 
 ## About me
