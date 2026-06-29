@@ -3,7 +3,7 @@
 <!-- Bộ đếm lượt xem (Profile Views)  -->
 ![Profile Views](https://komarev.com/ghpvc/?username=PhanVanTranh&color=007ec6&style=flat-square)
 
-<!-- Banner ảnh (Bạn có thể tự thiết kế trên Canva rồi up lên lấy link thay vào đây) -->
+<!-- Banner ảnh  -->
 ![Banner](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop)
 
 </div>
@@ -21,15 +21,12 @@ I'm an electronic and telecommunication engineering student specializing in embe
 * **Frameworks:** AK Embedded Base Kit
 * **Operating Systems:** Linux (Ubuntu), Windows
 
-<div align="left">
   
-## 📬 Connect with me
+## Connect with me
 
-<!-- Gmail -->
-<a href="mailto:phantranh2304@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 4px; border: 1px solid #C0392B;"></a>
-<!-- LinkedIn -->
-<a href="https://linkedin.com/in/tranh-phan-3b7785311"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 4px; border: 1px solid #1A5276; margin-left: 10px;"></a>
-
-</div>
+<p align="left">
+  <a href="mailto:phantranh2304@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 4px; border: 1px solid #C0392B;"></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/tranh-phan-3b7785311"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 4px; border: 1px solid #1A5276;"></a>
+</p>
 
 ---
